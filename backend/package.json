@@ -1,7 +1,7 @@
 {
-  "name": "express-ts-app",
+  "name": "backend",
   "version": "0.0.1",
-  "description": "express-ts-app initialised with create-express-typescript-application.",
+  "description": "backend initialised with create-express-typescript-application.",
   "main": "src/index.ts",
   "scripts": {
     "build": "tsc",
